@@ -1,0 +1,16 @@
+*.o
+*.su
+*.img
+*.bin
+*.hex
+*.elf
+*.a
+*.so
+*~
+*.dump
+*.list
+*.symbols
+
+tags
+main
+a.out
